@@ -1,0 +1,11 @@
+{
+  "version": "1.0.11",
+  "build_number": 13,
+  "release_date": "2025-12-15",
+  "download_url": "https://github.com/amir0549/celeste/releases/download/v1.0.11/Celeste-Setup-v1.0.11.exe",
+  "release_notes_ar": "## التحديث 1.0.10\n\n### الميزات الجديدة\n- إضافة نظام التحديثات التلقائية\n- تحسينات في الأداء\n\n### إصلاحات الأخطاء\n- إصلاح مشكلة في حفظ البيانات\n- تحسين واجهة المستخدم",
+  "release_notes_en": "## Update 1.0.10\n\n### New Features\n- Added automatic update system\n- Performance improvements\n\n### Bug Fixes\n- Fixed data saving issue\n- Improved user interface",
+  "release_notes_fr": "## Mise à jour 1.0.10\n\n### Nouvelles fonctionnalités\n- Ajout du système de mise à jour automatique\n- Améliorations des performances\n\n### Corrections de bogues\n- Correction du problème de sauvegarde des données\n- Amélioration de l'interface utilisateur",
+  "minimum_version": "1.0.0",
+  "file_size_bytes": 52428800
+}
