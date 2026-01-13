@@ -1,0 +1,141 @@
+{
+  "version": "1.0.3",
+  "generated_at": "2026-01-13T15:40:33.046976",
+  "files": [
+    {
+      "path": "celeste.exe",
+      "hash": "f26ae0458738cc257f773d35b2a8805832f9a034c126ad3d787df4d837e9a7de",
+      "size": 64000
+    },
+    {
+      "path": "connectivity_plus_plugin.dll",
+      "hash": "1e742b6524b68d35d620747ec01c861f6bf3eeaf5bac9e92c061a1ae0219a2f4",
+      "size": 99840
+    },
+    {
+      "path": "data/app.so",
+      "hash": "3d4bcf729cdbaf305c3e12f33dde178ed9cdb4785b72361b2153293bf1b0cb4c",
+      "size": 11436976
+    },
+    {
+      "path": "data/flutter_assets/AssetManifest.bin",
+      "hash": "c3279195ad75e62e4a473e22929770960137dfd39fe589563d4077fa60b0cd05",
+      "size": 550
+    },
+    {
+      "path": "data/flutter_assets/assets/icons/celeste_icon.png",
+      "hash": "b83f9117fdf46debc4a3ec64c289f971fe9220adb1d3c08814f2219cbf1efe2d",
+      "size": 7997
+    },
+    {
+      "path": "data/flutter_assets/assets/images/downloaded_image.png",
+      "hash": "aab8ffefee3d90534fac7e95b05b0ca4cae03ae6c3db86b50c301c92821236e2",
+      "size": 333781
+    },
+    {
+      "path": "data/flutter_assets/FontManifest.json",
+      "hash": "cd7e03645bc44b2dd47b7cb626f51c4ecbf55a197ab77241628b47ac165fbe21",
+      "size": 208
+    },
+    {
+      "path": "data/flutter_assets/fonts/MaterialIcons-Regular.otf",
+      "hash": "d9865b671a09d683d13a863089d8825e0f61a37696ce5d7d448bc8023aa62453",
+      "size": 1645184
+    },
+    {
+      "path": "data/flutter_assets/kernel_blob.bin",
+      "hash": "15de9866ccf0e8f0dd29b0ac187faa9260a874b05c223e43112b6f5b9cd2380a",
+      "size": 94741496
+    },
+    {
+      "path": "data/flutter_assets/NativeAssetsManifest.json",
+      "hash": "9548a31e4a048135c1d94f919328bfb62ae2c7bb3cab96557c7941daa97776cb",
+      "size": 45
+    },
+    {
+      "path": "data/flutter_assets/NOTICES.Z",
+      "hash": "53eaa0bdfa36f46edf51b728c22d58fb88f5edf0b66c868a9dc314ae3415399b",
+      "size": 121811
+    },
+    {
+      "path": "data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
+      "hash": "67c44fe9183b002e79dde7f6977e2988661c9a3e4a3c5fce968787efdbed823c",
+      "size": 257628
+    },
+    {
+      "path": "data/flutter_assets/packages/esc_pos_utils_plus/resources/capabilities.json",
+      "hash": "ac9c6573294743c710bcd81068328e3c3fb88ef31352ca3776f0cca886ccfe42",
+      "size": 66655
+    },
+    {
+      "path": "data/flutter_assets/packages/image_background_remover/assets/model.onnx",
+      "hash": "309c8469258dda742793dce0ebea8e6dd393174f89934733ecc8b14c76f4ddd8",
+      "size": 4574861
+    },
+    {
+      "path": "data/flutter_assets/shaders/ink_sparkle.frag",
+      "hash": "e5e61d50c9549bc35382bbbd1c9548d46c4fb9ddf40c3a698415ac7e005516c8",
+      "size": 21320
+    },
+    {
+      "path": "data/flutter_assets/shaders/stretch_effect.frag",
+      "hash": "3707b8a75ae51668d7bcf4fe72a7b6ac95055555a8afc1723da74ff5eded1378",
+      "size": 17368
+    },
+    {
+      "path": "data/flutter_assets/tokens.env",
+      "hash": "61c51744cd504e35a54eea2631fb194a1c661e37187cdd6417ef5cea52b49297",
+      "size": 525
+    },
+    {
+      "path": "data/icudtl.dat",
+      "hash": "c12537022ef818991a7bfed41a76d8d6ae962ffbc0e6511ac762a5d0845e7f7c",
+      "size": 778864
+    },
+    {
+      "path": "desktop_multi_window_plugin.dll",
+      "hash": "89affa0e8c9087ddd49c6b75c39b073e94325e37b5856087ff5b75e76ef583a6",
+      "size": 135168
+    },
+    {
+      "path": "flutter_secure_storage_windows_plugin.dll",
+      "hash": "30bf387a5372046059bb4ee7b46ecdff3ce11d3c7385997a17685b73e168340f",
+      "size": 159744
+    },
+    {
+      "path": "flutter_thermal_printer_plugin.dll",
+      "hash": "e29c98e3a95b885b71bb6da406349d6abeefa532320ac0ad7f06a27430d26c3d",
+      "size": 89088
+    },
+    {
+      "path": "flutter_windows.dll",
+      "hash": "1f4215e1072dd9e34f4565b74310e6771364e1470c7e92214bca64947bd012a1",
+      "size": 18511872
+    },
+    {
+      "path": "onnxruntime.dll",
+      "hash": "bb090dd258282c1d7f7a41a83492ba07bc4fe65d75259435587350e1fa66f1bc",
+      "size": 9630648
+    },
+    {
+      "path": "screen_retriever_windows_plugin.dll",
+      "hash": "3af6e97f38ec3f649d66e4c31cbd82b3df98b4de6998ce64c344d80faed87526",
+      "size": 119808
+    },
+    {
+      "path": "universal_ble_plugin.dll",
+      "hash": "62fdfa2f4343189a6412576693c0859f79cfdf66f70935d22b0fdd8148e860af",
+      "size": 438784
+    },
+    {
+      "path": "url_launcher_windows_plugin.dll",
+      "hash": "8fd4dbdb13363b8d4695e88e99ddd9c9f872c02939554fe681a6bea90bd0ca04",
+      "size": 98304
+    },
+    {
+      "path": "window_manager_plugin.dll",
+      "hash": "6f7bcc5c582c2bbedeeda01cbc6ede1c3470081b6fdfe48bf08dd2ffe7ab027b",
+      "size": 130048
+    }
+  ]
+}
