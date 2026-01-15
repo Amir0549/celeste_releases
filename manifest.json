@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "generated_at": "2026-01-13T15:40:33.046976",
+  "version": "1.0.4",
+  "generated_at": "2026-01-15T10:06:38.921232",
   "files": [
     {
       "path": "celeste.exe",
@@ -14,13 +14,28 @@
     },
     {
       "path": "data/app.so",
-      "hash": "3d4bcf729cdbaf305c3e12f33dde178ed9cdb4785b72361b2153293bf1b0cb4c",
-      "size": 11436976
+      "hash": "aff4c0a3f09049a3d9cafea4216f0dc6b7543d2ae6a222a8134e17c09bda95d5",
+      "size": 11731888
     },
     {
       "path": "data/flutter_assets/AssetManifest.bin",
-      "hash": "c3279195ad75e62e4a473e22929770960137dfd39fe589563d4077fa60b0cd05",
-      "size": 550
+      "hash": "7c018b8947fb5e59c9220369e040dc1d1b0fb05360f45ab657b5d017b922b195",
+      "size": 723
+    },
+    {
+      "path": "data/flutter_assets/assets/emenu/app.js",
+      "hash": "19fdd0c9d6347e5e2818c04143224a35ec764295171256e50f2ae07f1b880de6",
+      "size": 12870
+    },
+    {
+      "path": "data/flutter_assets/assets/emenu/index.html",
+      "hash": "5a2c2a037f6841a0340ba494dd0fba3f7bee7873b916fd667721324cc0b4e0e1",
+      "size": 427
+    },
+    {
+      "path": "data/flutter_assets/assets/emenu/style.css",
+      "hash": "d49de44bfdfe644bda76a4f41cf56e5528ed4eee679065fe7cc7993576909c5f",
+      "size": 280
     },
     {
       "path": "data/flutter_assets/assets/icons/celeste_icon.png",
@@ -44,8 +59,8 @@
     },
     {
       "path": "data/flutter_assets/kernel_blob.bin",
-      "hash": "15de9866ccf0e8f0dd29b0ac187faa9260a874b05c223e43112b6f5b9cd2380a",
-      "size": 94741496
+      "hash": "ec6acfefc78f0b180095c554b7da278a38b0f3d0852aa80f44f53abb1ef3d9ce",
+      "size": 94294720
     },
     {
       "path": "data/flutter_assets/NativeAssetsManifest.json",
@@ -54,8 +69,8 @@
     },
     {
       "path": "data/flutter_assets/NOTICES.Z",
-      "hash": "53eaa0bdfa36f46edf51b728c22d58fb88f5edf0b66c868a9dc314ae3415399b",
-      "size": 121811
+      "hash": "a9b6d227201085f8daef7676edf0e6e427f3d31c8094dbef5e053609edbc8230",
+      "size": 122148
     },
     {
       "path": "data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
