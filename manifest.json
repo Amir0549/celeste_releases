@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
-  "generated_at": "2026-01-18T01:27:15.060598",
+  "version": "1.0.6",
+  "generated_at": "2026-01-18T15:59:19.489252",
   "files": [
     {
       "path": "celeste.exe",
-      "hash": "e78de263f975074af7956e31e54baf1e9147bfbd8151dccb6500047a0a494755",
+      "hash": "7f353694c9aff3b533ce988e0a3bca1cbcb083865ca4c84c3950c640b673820d",
       "size": 64000
     },
     {
@@ -14,7 +14,7 @@
     },
     {
       "path": "data/app.so",
-      "hash": "f603d9564866d6efbcf948ac6d1c0fcbb1669fec5859a3fe4b7e69ca876d5a15",
+      "hash": "519a6f778cf1e3ce3a63dcd476a61b168a6e1e078b3013d57a4189c59684e1b5",
       "size": 11764656
     },
     {
@@ -59,8 +59,8 @@
     },
     {
       "path": "data/flutter_assets/kernel_blob.bin",
-      "hash": "d0ba182ed48b7bcfd0ee181c1810dfa4f0f47b961ea05b0ddf6d16358d282844",
-      "size": 94789848
+      "hash": "4c19785bd568866529a107acb0542e27e774bc46d182f9eed1255c3e0afe43ce",
+      "size": 94806712
     },
     {
       "path": "data/flutter_assets/NativeAssetsManifest.json",
