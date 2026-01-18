@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4",
-  "generated_at": "2026-01-15T10:13:45.424537",
+  "version": "1.0.5",
+  "generated_at": "2026-01-18T01:27:15.060598",
   "files": [
     {
       "path": "celeste.exe",
-      "hash": "f00e45081bff459a13185483494e3354f458151ba59b90ca0a3606f60e31784b",
+      "hash": "e78de263f975074af7956e31e54baf1e9147bfbd8151dccb6500047a0a494755",
       "size": 64000
     },
     {
@@ -14,8 +14,8 @@
     },
     {
       "path": "data/app.so",
-      "hash": "aff4c0a3f09049a3d9cafea4216f0dc6b7543d2ae6a222a8134e17c09bda95d5",
-      "size": 11731888
+      "hash": "f603d9564866d6efbcf948ac6d1c0fcbb1669fec5859a3fe4b7e69ca876d5a15",
+      "size": 11764656
     },
     {
       "path": "data/flutter_assets/AssetManifest.bin",
@@ -24,8 +24,8 @@
     },
     {
       "path": "data/flutter_assets/assets/emenu/app.js",
-      "hash": "19fdd0c9d6347e5e2818c04143224a35ec764295171256e50f2ae07f1b880de6",
-      "size": 12870
+      "hash": "6f6f9e429d013d6bd04517721c5c49583d3590e15d4632c538ae1dc5d13537db",
+      "size": 14389
     },
     {
       "path": "data/flutter_assets/assets/emenu/index.html",
@@ -34,8 +34,8 @@
     },
     {
       "path": "data/flutter_assets/assets/emenu/style.css",
-      "hash": "d49de44bfdfe644bda76a4f41cf56e5528ed4eee679065fe7cc7993576909c5f",
-      "size": 280
+      "hash": "a2767b45bfafe6813b96a7493ea5eea9456f26e086f46291db91e45e7e7e062f",
+      "size": 459
     },
     {
       "path": "data/flutter_assets/assets/icons/celeste_icon.png",
@@ -59,8 +59,8 @@
     },
     {
       "path": "data/flutter_assets/kernel_blob.bin",
-      "hash": "ec6acfefc78f0b180095c554b7da278a38b0f3d0852aa80f44f53abb1ef3d9ce",
-      "size": 94294720
+      "hash": "d0ba182ed48b7bcfd0ee181c1810dfa4f0f47b961ea05b0ddf6d16358d282844",
+      "size": 94789848
     },
     {
       "path": "data/flutter_assets/NativeAssetsManifest.json",
